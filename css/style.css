@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color:rgba(8, 8, 8, 0.966);
+}
+.bar-icon{
+    color: white;
+}
+.mic{
+    background-color: rgba(43, 66, 66, 0.705);
+    border-radius: 100%;
+    color: white;
+    height:43px;
+    width: 43px;
+    text-align: center;
+    align-items: center;
+    padding-top:12px;
+}
+.mic:hover{
+    background-color: rgba(43, 66, 66, 0.993);
+}
+.serch{
+    border-radius: 20px 0px 0px 20px;
+}
+.magni{
+    color: white;
+    background-color: rgba(43, 66, 66, 0.664);
+    height: 38px;
+    width: 60px;
+    border-radius: 0px 20px 20px 0px;
+}
+.magni i{
+    background-color: rgba(43, 66, 66, 0.664);
+}
+.plus{
+    color: white;
+    background-color: rgba(43, 66, 66, 0.664);
+    height:40px;
+    width: 100px;
+}
+.plus p{
+        background-color: rgba(43, 66, 66, 0.466);
+}
+.plus i{
+    background-color: rgba(43, 66, 66, 0.466);
+}
+.plus:hover{
+    background-color: rgba(43, 66, 66, 0.993);
+
+}
+.bell{
+    color:white;
+    width: 40px;
+}
+.myimg img{
+    border-radius: 100%;
+    width: 40px;
+}
+
+.hr{
+    color: rgb(227, 240, 240);
+}
+.left ul>li{
+    background-color:rgba(29, 25, 25, 0.11);
+    display: flex;
+    color: white;
+    font-size: 14px;
+    justify-content: space-between;
+    font-weight:500;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.left ul>li i{
+    background-color:rgba(29, 25, 25, 0.11);
+    font-size: 22px;
+}
+.left ul>li p{
+    
+    background-color:rgba(29, 25, 25, 0.11);
+}
+.topic div{
+    color: white;
+    background-color: rgba(43, 66, 66, 0.664);
+    height: 35px;
+}
+.topic div:hover{
+    background-color: rgba(43, 66, 66, 0.993);
+}
+.video-one i{
+color: white;
+font-size: 22px;
+height: 15px;
+}
+.video-one p{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 230px;
+}
+.video-one p:hover{
+    color: white;
+}
+.video-one iframe{
+    border-radius: 10px;
+}
+.video-one iframe:hover{
+    height: 192px;
+    width: 340px;
+}
+.topic-left-margin{
+ margin-left: 16.6%;
+}
